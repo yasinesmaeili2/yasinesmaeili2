@@ -50,7 +50,7 @@
     </a>
 
 <!-- ## 📊 My Github Stats -->
-<p>📊 My Github Stats</p>
+<p><b>📊 My Github Stats</b></p>
 
   <br/>
     <a href="https://github.com/yasinesmaeili2"><img alt="Yasin esmaeili's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yasinesmaeili2&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -69,7 +69,7 @@
 <br/>
 
 <!-- ## Connect with me: -->
-<p>Connect with me:</p>
+<p><b>Connect with me:</></p>
 <p align="left">
 <a href = "https://twitter.com/yasirooz1"><img width="50px" src="https://img.icons8.com/nolan/64/twitter.png"/></a>
 <a href = "https://www.instagram.com/yasirooz/"><img width="50px" src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
